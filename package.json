@@ -1,0 +1,22 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "\"# cleanBlog\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hercanyavuzturk/cleanBlog.git"
+  },
+  "author": "Hercan Yavuzturk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hercanyavuzturk/cleanBlog/issues"
+  },
+  "homepage": "https://github.com/hercanyavuzturk/cleanBlog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
